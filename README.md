@@ -1,6 +1,9 @@
 ### An amateur developer
 
 <div>
-  <img alt="Phantomlsh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=phantomlsh&show_icons=true">
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phantomlsh&layout=compact">
+  <img alt="Phantomlsh's Github Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phantomlsh&theme=github">
+  <img alt="Phantomlsh's Github Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phantomlsh&theme=github">
+  <img alt="Phantomlsh's Github Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=phantomlsh&theme=github">
+  <img alt="Phantomlsh's Github Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=phantomlsh&theme=github">
+  <img alt="Phantomlsh's Github Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=phantomlsh&theme=github">
 </div>
